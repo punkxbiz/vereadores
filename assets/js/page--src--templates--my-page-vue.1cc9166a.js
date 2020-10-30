@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{kboC:function(t,e,n){"use strict";n.r(e);var s=n("KHd+"),o=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("Layout",[e("h1",[this._v("slug: "+this._s(this.$context.vereador))])])}),[],!1,null,null,null);e.default=o.exports}}]);
